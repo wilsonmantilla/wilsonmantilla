@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
 - <b>Writing a Security Risk Assessment Report</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Security Risk Assessment Report](https://github.com/wilsonmantilla/Security-Risk-Assessment-Report)
 - <b>Investigating a suspicious file hash using VirtusTotal (OSINT)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>Documenting findings of a major security breach</b>
