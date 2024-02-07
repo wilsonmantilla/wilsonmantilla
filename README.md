@@ -25,6 +25,45 @@
 - CompTIA Security +
 - Google Cybersecurity Professional Certification
 
+![Aplus Logo Certified CE](https://github.com/wilsonmantilla/wilsonmantilla/assets/159208489/7dfc1f30-5733-4474-b5b9-65ff06017d2c)
+![NetworkPlus Logo Certified CE](https://github.com/wilsonmantilla/wilsonmantilla/assets/159208489/47d4b065-c6cd-459f-9c44-7f00f922dcdf)
+![SecurityPlus Logo Certified CE](https://github.com/wilsonmantilla/wilsonmantilla/assets/159208489/715d6157-8f16-457d-896c-aeef7341f4b2)
+![the one](https://github.com/wilsonmantilla/wilsonmantilla/assets/159208489/68818ccc-4d4d-41c9-895c-bd4c9a0901a1)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
