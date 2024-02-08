@@ -27,15 +27,10 @@
 
 <h2>Courses</h2>
 
-- Microsoft Windows Defender and Firewall for Beginners (Coursera, lab) [https://www.coursera.org/projects/microsoft-windows-defender-and-firewall-for-beginners]
-- Wireshark for beginners: Capture Packets (Coursera, lab)
-[https://www.coursera.org/projects/wireshark-for-beginners-capture-packets]
-- Intro to Network Traffic Analysis (Hack The Box, lab)
-[https://academy.hackthebox.com/course/preview/intro-to-network-traffic-analysis]
-- Introduction to Active Directory (Hack The Box, lab)
-[https://academy.hackthebox.com/course/preview/introduction-to-active-directory]
-- Windows Server 2022 - Manage, Monitor, and Maintain Servers (Linkedin)
-[https://www.linkedin.com/learning/windows-server-2022-manage-monitor-and-maintain-servers-15013535]
-- Python 101 for Hackers (TCM Security, lab)
-[https://academy.tcm-sec.com/p/python-101-for-hackers]
+- Microsoft Windows Defender and Firewall for Beginners (Coursera, lab) [Course Link](https://www.coursera.org/projects/microsoft-windows-defender-and-firewall-for-beginners)
+- Wireshark for beginners: Capture Packets (Coursera, lab) [Course Link](https://www.coursera.org/projects/wireshark-for-beginners-capture-packets)
+- Intro to Network Traffic Analysis (Hack The Box, lab) [Course Link](https://academy.hackthebox.com/course/preview/intro-to-network-traffic-analysis)
+- Introduction to Active Directory (Hack The Box, lab) [Course Link](https://academy.hackthebox.com/course/preview/introduction-to-active-directory)
+- Windows Server 2022 - Manage, Monitor, and Maintain Servers (Linkedin) [Course Link](https://www.linkedin.com/learning/windows-server-2022-manage-monitor-and-maintain-servers-15013535)
+- Python 101 for Hackers (TCM Security, lab) [Course Link](https://academy.tcm-sec.com/p/python-101-for-hackers)
 
