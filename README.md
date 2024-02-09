@@ -4,13 +4,13 @@
 
 - <b>Writing a Security Risk Assessment Report</b>
   - [Security Risk Assessment Report](https://github.com/wilsonmantilla/Security-Risk-Assessment-Report)
-- <b>Investigating a suspicious file hash using VirtusTotal (OSINT)</b>
+- <b>Investigating a suspicious file hash using VirusTotal (OSINT)</b>
   - [Suspicious File Hash](https://github.com/wilsonmantilla/VirusTotal)
 - <b>Documenting findings of a major security breach</b>
   - [Incident Handler's Journal Entry](https://github.com/wilsonmantilla/Documenting-Security-Breach)
-- <b>Analyzing network traffic in Wireshark</b>
+- <b>Analyzing network traffic in wireshark</b>
   - [Network Traffic Analysis in Wireshark](https://github.com/wilsonmantilla/Wireshark-Traffic-Analysis)
-- <b>Analyzing Network Traffic in tcpdump</b>
+- <b>Analyzing network traffic in tcpdump</b>
   - [Network Traffic Analysis in tcpdump](https://github.com/wilsonmantilla/tcpdump-traffic-analysis)
 
 <h2>Certifications</h2>
