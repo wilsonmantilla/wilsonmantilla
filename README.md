@@ -20,11 +20,6 @@
 - CompTIA Security +
 - Google Cybersecurity Professional Certification
 
-![Aplus Logo Certified CE](https://github.com/wilsonmantilla/wilsonmantilla/assets/159208489/2c1b4355-55d8-48b8-b978-79b33dc99c3d)
-![NetworkPlus Logo Certified CE](https://github.com/wilsonmantilla/wilsonmantilla/assets/159208489/e9eb025c-ea02-43c0-ba18-a2b09c28f2e8)
-![SecurityPlus Logo Certified CE](https://github.com/wilsonmantilla/wilsonmantilla/assets/159208489/55754d6c-deb7-4a31-be2f-3f9275c79de1)
-![110](https://github.com/wilsonmantilla/wilsonmantilla/assets/159208489/3a33bf68-ebf6-492b-846a-45ade0310d96)
-
 <h2>Courses</h2>
 
 - <strong>Microsoft Windows Defender and Firewall for Beginners (Coursera, lab)</strong> [Course Link](https://www.coursera.org/projects/microsoft-windows-defender-and-firewall-for-beginners)
