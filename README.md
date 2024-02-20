@@ -15,9 +15,9 @@
 
 <h2>Certifications</h2>
 
-- CompTIA A +
-- CompTIA Network +
-- CompTIA Security +
+- CompTIA A+
+- CompTIA Network+
+- CompTIA Security+
 - Google Cybersecurity Professional Certification
 
 <h2>Courses</h2>
