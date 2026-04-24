@@ -1,6 +1,6 @@
-<h1>Hi, I'm Wilson! <br/> <a href="https://www.linkedin.com/in/wilson-mantilla-678aa02ab/>Cybersecurity Professional">Computer Analyst</a>
+<h1>Hi, I'm Wilson! <br/> <a href="https://www.linkedin.com/in/wilson-mantilla-678aa02ab/>Cybersecurity Professional">Desktop Technician</a>
 
-<h2>👨‍💻 Cyber Security Projects:</h2>
+<h2>👨‍💻 IT Projects:</h2>
 
 - <b>Writing a Security Risk Assessment Report</b>
   - [Security Risk Assessment Report](https://github.com/wilsonmantilla/Security-Risk-Assessment-Report)
